@@ -4,7 +4,7 @@
 # 输出文件 1: 通用格式 (一行一个 URL)
 output_file="formatted_trackers.txt"
 # 输出文件 2: Aria2 格式 (逗号分隔，无换行)
-output_file_aria2="formatted_trackers_aria2.txt"
+output_file_aria2="trackers_all_aria2.txt"
 # =========================================
 
 # 1. 检查参数
