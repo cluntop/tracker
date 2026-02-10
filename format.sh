@@ -1,25 +1,34 @@
 #!/bin/bash
 
-# 检查是否提供了文件名作为参数
+# =================配置区域=================
+# 输出文件 1: 通用格式 (一行一个 URL)
+output_file="formatted_trackers.txt"
+# 输出文件 2: Aria2 格式 (逗号分隔，无换行)
+output_file_aria2="formatted_trackers_aria2.txt"
+# =========================================
+
+# 1. 检查参数
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <file>"
     exit 1
 fi
 
 input_file="$1"
-output_file="formatted_trackers.txt"
 
-# 检查文件是否存在
+# 2. 检查输入文件
 if [ ! -f "$input_file" ]; then
-    echo "Error: File not found."
+    echo "Error: File not found: $input_file"
     exit 1
 fi
 
-# 使用tr将逗号替换为换行符，然后使用grep和sed来处理文件
-# - 使用grep -oP 来匹配以http://, https://, udp://, wss://开头并且以/announce结尾的内容
-# - 不进行贪婪匹配
-# - 使用sed来省略默认端口
-# - 过滤掉包含blackstr.txt中恶意IP的URL
+echo "Processing trackers..."
+
+# 3. 处理核心逻辑
+# - tr: 将逗号转为换行（兼容输入本身就是逗号分隔的情况）
+# - grep: 提取 http/udp/wss 协议，自动忽略行内其他杂质（如 bt-tracker= 前缀）
+# - sed: 去除默认端口 (80/443)，去除行尾空白
+# - blackstr.txt: 黑名单过滤
+# - sort -u: 去重并排序
 tr ',' '\n' < "$input_file" | \
 grep -oP '(http|https|udp|wss)://[^/]+/announce' | \
 sed -E 's#(http://[^/]+):80/announce#\1/announce#; s#(https://[^/]+):443/announce#\1/announce#' | \
@@ -30,6 +39,26 @@ sed 's/[ \t]*$//' | \
     else
         cat
     fi
-} > "$output_file"
+} | sort -u > "$output_file"
 
-echo "Formatted trackers have been saved to $output_file"
+# 4. 生成 Aria2 格式
+# 检查第一个输出文件是否有内容
+if [ -s "$output_file" ]; then
+    # 使用 paste 命令将所有行合并为一行，用逗号分隔
+    paste -sd "," "$output_file" > "$output_file_aria2"
+else
+    # 如果结果为空，清空 Aria2 文件
+    > "$output_file_aria2"
+    echo "Warning: No valid trackers found."
+fi
+
+# 5. 输出结果提示
+echo "------------------------------------------------"
+echo "Processing Complete."
+echo ""
+echo "1. [Standard Format] (Line-separated):"
+echo "   -> $output_file"
+echo ""
+echo "2. [Aria2 Format] (Comma-separated):"
+echo "   -> $output_file_aria2"
+echo "------------------------------------------------"
