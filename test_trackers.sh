@@ -1,116 +1,133 @@
 #!/bin/bash
 
-# 检查是否提供了文件名作为参数
+# ================= 配置区域 =================
+THREADS=100                 # 并发线程数 (根据网络状况调整，建议 50-100)
+TIMEOUT=3                   # 单个连接超时时间 (秒)
+OUTPUT_MAIN="trackers_best.txt"
+OUTPUT_ARIA2="trackers_best_aria2.txt"
+# ===========================================
+
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 <file>"
     exit 1
 fi
 
-input_file="$1"
-# 输出文件定义
-output_file_main="trackers_best.txt"
-output_file_http="trackers_best_http.txt"
-output_file_https="trackers_best_https.txt"
-output_file_udp="trackers_best_udp.txt"
-output_file_wss="trackers_best_wss.txt"
-output_file_aria2="trackers_best_aria2.txt" # 新增 Aria2 输出文件
+INPUT_FILE="$1"
 
-# 检查文件是否存在
-if [ ! -f "$input_file" ]; then
-    echo "Error: File not found."
+# 检查依赖
+if ! command -v xargs &> /dev/null; then
+    echo "Error: xargs is required."
     exit 1
 fi
 
-# 清空所有输出文件
-> "$output_file_main"
-> "$output_file_http"
-> "$output_file_https"
-> "$output_file_udp"
-> "$output_file_wss"
-> "$output_file_aria2"
-
-echo "Starting connectivity test..."
-
-# 过滤黑名单并开始循环
-{
-    if [ -f "blackstr.txt" ]; then
-        grep -v -F -f blackstr.txt "$input_file"
-    else
-        cat "$input_file"
-    fi
-} | while IFS= read -r tracker; do
-    # 忽略空行
-    [ -z "$tracker" ] && continue
-
-    protocol=$(echo "$tracker" | grep -oE '^[a-z]+')
-    is_alive=0
+# 核心检测函数 (将被导出供 xargs 调用)
+check_tracker() {
+    local tracker="$1"
+    local timeout="$2"
+    local protocol=$(echo "$tracker" | grep -oE '^[a-z]+')
 
     case $protocol in
-        http)
-            if curl -s -f -m 1 "$tracker" &>/dev/null; then
-                echo -e "\033[32mSuccess\033[0m: $tracker"
-                echo "$tracker" >> "$output_file_main"
-                echo "$tracker" >> "$output_file_http"
-                is_alive=1
-            else
-                echo -e "\033[31mFailed\033[0m: $tracker"
-            fi
-            ;;
-        https)
-            if curl -s -f -m 1 "$tracker" &>/dev/null; then
-                echo -e "\033[32mSuccess\033[0m: $tracker"
-                echo "$tracker" >> "$output_file_main"
-                echo "$tracker" >> "$output_file_https"
-                is_alive=1
-            else
-                echo -e "\033[31mFailed\033[0m: $tracker"
+        http|https)
+            # 使用 curl 检测，-I 仅请求头部加快速度
+            if curl -s -f -m "$timeout" "$tracker" &>/dev/null; then
+                echo "$tracker"
             fi
             ;;
         udp)
-            host=$(echo "$tracker" | cut -d'/' -f3)
-            port=$(echo "$host" | cut -d':' -f2)
-            host=$(echo "$host" | cut -d':' -f1)
-            # nc 增加 -w 1 超时
-            if nc -zuv -w 1 "$host" "$port" &>/dev/null; then
-                echo -e "\033[32mSuccess\033[0m: $tracker"
-                echo "$tracker" >> "$output_file_main"
-                echo "$tracker" >> "$output_file_udp"
-                is_alive=1
-            else
-                echo -e "\033[31mFailed\033[0m: $tracker"
+            local host=$(echo "$tracker" | cut -d'/' -f3 | cut -d':' -f1)
+            local port=$(echo "$tracker" | cut -d'/' -f3 | cut -d':' -f2)
+            # nc 检测 UDP
+            if nc -zuv -w "$timeout" "$host" "$port" &>/dev/null; then
+                echo "$tracker"
             fi
             ;;
         wss)
-            host=$(echo "$tracker" | sed 's|wss://||' | cut -d'/' -f1)
-            port=$(echo "$host" | cut -d':' -f2)
-            if [ "$port" = "$host" ]; then
-                port=443
-                host=$(echo "$host" | cut -d':' -f1)
+            # 优先使用 wscat (如果你安装了 node-ws)，否则用 nc
+            if command -v wscat &> /dev/null; then
+                # wscat 连接测试
+                if wscat -c "$tracker" --no-check -w "$timeout" -x '{"close": 1}' &>/dev/null; then
+                     echo "$tracker"
+                fi
             else
+                # 回退到 TCP 端口测试
+                local host=$(echo "$tracker" | sed 's|wss://||' | cut -d'/' -f1)
+                local port=$(echo "$host" | cut -d':' -f2)
+                [ "$port" = "$host" ] && port=443 && host=$(echo "$host" | cut -d':' -f1)
                 host=$(echo "$host" | cut -d':' -f1)
+                
+                if nc -zv -w "$timeout" "$host" "$port" &>/dev/null; then
+                    echo "$tracker"
+                fi
             fi
-            
-            if nc -zv -w 1 "$host" "$port" &>/dev/null; then
-                echo -e "\033[32mSuccess\033[0m: $tracker"
-                echo "$tracker" >> "$output_file_main"
-                echo "$tracker" >> "$output_file_wss"
-                is_alive=1
-            else
-                echo -e "\033[31mFailed\033[0m: $tracker"
-            fi
-            ;;
-        *)
-            echo "Unknown protocol: $protocol"
             ;;
     esac
-done
+}
 
-# 生成 Aria2 格式 (将测试通过的列表合并为逗号分隔字符串)
-if [ -s "$output_file_main" ]; then
-    echo "Generating Aria2 format..."
-    paste -sd "," "$output_file_main" > "$output_file_aria2"
+# 导出函数和变量供子 shell 使用
+export -f check_tracker
+export TIMEOUT
+
+echo "Starting Multi-threaded testing ($THREADS threads)..."
+echo "Timeout set to ${TIMEOUT}s per tracker."
+
+# 准备临时文件
+TEMP_VALID_LIST=$(mktemp)
+
+# ===========================================
+# 1. 预处理 + 多线程并行执行
+# ===========================================
+# 逻辑：
+# 1. 读取文件
+# 2. 过滤黑名单
+# 3. xargs -P 启动多线程
+# 4. 将成功的结果写入临时文件
+{
+    if [ -f "blackstr.txt" ]; then
+        grep -v -F -f blackstr.txt "$INPUT_FILE"
+    else
+        cat "$INPUT_FILE"
+    fi
+} | tr -d '\r' | sort -u | \
+xargs -P "$THREADS" -n 1 -I {} bash -c 'check_tracker "{}" "$TIMEOUT"' >> "$TEMP_VALID_LIST"
+
+# ===========================================
+# 2. 结果分类与文件生成
+# ===========================================
+echo "Testing complete. Categorizing results..."
+
+# 清空旧文件
+> "$OUTPUT_MAIN"
+> "trackers_best_http.txt"
+> "trackers_best_https.txt"
+> "trackers_best_udp.txt"
+> "trackers_best_wss.txt"
+
+# 统计数量
+count=0
+
+if [ -s "$TEMP_VALID_LIST" ]; then
+    # 保存总表
+    sort -u "$TEMP_VALID_LIST" > "$OUTPUT_MAIN"
+    
+    # 分类保存
+    grep "^http://"  "$OUTPUT_MAIN" > "trackers_best_http.txt"
+    grep "^https://" "$OUTPUT_MAIN" > "trackers_best_https.txt"
+    grep "^udp://"   "$OUTPUT_MAIN" > "trackers_best_udp.txt"
+    grep "^wss://"   "$OUTPUT_MAIN" > "trackers_best_wss.txt"
+    
+    # 生成 Aria2 格式
+    paste -sd "," "$OUTPUT_MAIN" > "$OUTPUT_ARIA2"
+    
+    count=$(wc -l < "$OUTPUT_MAIN")
+else
+    > "$OUTPUT_ARIA2"
 fi
 
-echo "Testing complete."
-echo "Best trackers saved to $output_file_main"
-echo "Aria2 format saved to $output_file_aria2"
+# 清理临时文件
+rm "$TEMP_VALID_LIST"
+
+echo "------------------------------------------------"
+echo "Done! Found $count valid trackers."
+echo "1. Standard list: $OUTPUT_MAIN"
+echo "2. Aria2 format:  $OUTPUT_ARIA2"
+echo "------------------------------------------------"
