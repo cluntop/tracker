@@ -73,7 +73,7 @@ jobs:
       - name: Commit and Push changes
         run: |
           echo $(date +'%Y%m%d%H') > date.txt
-          git config --local user.email "clun@duck.com"
+          git config --local user.email "85211716+cluntop@users.noreply.github.com"
           git config --local user.name "cluntop"
           git add .
           git commit -am "$(date +'%Y%m%d')"
