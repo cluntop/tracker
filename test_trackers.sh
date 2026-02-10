@@ -2,7 +2,7 @@
 
 # ================= 配置区域 =================
 THREADS=100                 # 并发线程数 (根据网络状况调整，建议 50-100)
-TIMEOUT=3                   # 单个连接超时时间 (秒)
+TIMEOUT=15                  # 单个连接超时时间 (秒)
 OUTPUT_MAIN="trackers_best.txt"
 OUTPUT_ARIA2="trackers_best_aria2.txt"
 # ===========================================
@@ -88,7 +88,7 @@ TEMP_VALID_LIST=$(mktemp)
         cat "$INPUT_FILE"
     fi
 } | tr -d '\r' | sort -u | \
-xargs -P "$THREADS" -n 1 -I {} bash -c 'check_tracker "{}" "$TIMEOUT"' >> "$TEMP_VALID_LIST"
+xargs -P "$THREADS" -I {} bash -c 'check_tracker "{}" "$TIMEOUT"' >> "$TEMP_VALID_LIST"
 
 # ===========================================
 # 2. 结果分类与文件生成
