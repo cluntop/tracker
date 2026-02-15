@@ -1,13 +1,16 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
+http://180.113.232.20:6969/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33:1337/announce
 http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://extracker.dahrkael.net:6969/announce
+http://ftp.pet:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
@@ -16,7 +19,6 @@ http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
-http://open.demonii.si/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
@@ -30,12 +32,13 @@ http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
-http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
+http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.dump.cl:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.imgdump.lol:6969/announce
 http://tracker.kmzs123.com/announce
@@ -50,7 +53,6 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
-http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
 http://tracker2.torrentino.com/announce
@@ -74,7 +76,6 @@ https://t1.tokhmi.xyz/announce
 https://torrent.opiums.eu/announce
 https://torrent.tracker.durukanbal.com/announce
 https://torrentonline.cc/announce
-https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
@@ -174,6 +175,7 @@ udp://145.223.96.109:8000/announce
 udp://147.45.77.75:6969/announce
 udp://147job.com:6969/announce
 udp://148.113.168.115:6969/announce
+udp://148.135.112.164:6969/announce
 udp://148.251.53.72:6969/announce
 udp://149.202.88.193:80/announce
 udp://15.204.205.14:6969/announce
@@ -405,6 +407,7 @@ udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
 udp://200.170.109.148:6969/announce
 udp://200.170.110.108:6969/announce
+udp://200.170.110.170:6969/announce
 udp://200.170.113.35:6969/announce
 udp://200.170.113.5:6969/announce
 udp://201.13.49.112:6969/announce
@@ -1083,6 +1086,7 @@ udp://tracker.dump.cl:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edkj.club:6969/announce
+udp://tracker.emule.best:6969/announce
 udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
