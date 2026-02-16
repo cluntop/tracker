@@ -894,6 +894,7 @@ udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
+udp://retracker.lanta.me:2710/announce
 udp://retracker.nts.su:2710/announce
 udp://retracker.sevstar.net:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
