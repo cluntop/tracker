@@ -1113,6 +1113,7 @@ udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://ttr.croco.net:6969/announce
 udp://u.peer-exchange.download:6969/announce
+udp://uabits.today:6990/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://unknownsite.de:6969/announce
