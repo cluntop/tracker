@@ -546,7 +546,6 @@ udp://61.216.165.60:6969/announce
 udp://61.216.165.60:80/announce
 udp://61.221.26.18:6969/announce
 udp://61.221.26.18:80/announce
-udp://61626c.net:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.138.18.152:6969/announce
 udp://62.165.63.187:6969/announce
@@ -1112,6 +1111,7 @@ udp://tracker2.dler.org:80/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tracker4.piratux.com:6969/announce
 udp://trackerb.jonaslsa.com:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://ts.populargamers.co.za:6969/announce
