@@ -546,6 +546,7 @@ udp://61.216.165.60:6969/announce
 udp://61.216.165.60:80/announce
 udp://61.221.26.18:6969/announce
 udp://61.221.26.18:80/announce
+udp://61626c.net:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.138.18.152:6969/announce
 udp://62.165.63.187:6969/announce
@@ -854,10 +855,10 @@ udp://nagios.tks.sumy.ua:80/announce
 udp://navegador.click:6969/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
-udp://node01.edge-team.cc:42069/announce
 udp://node01.madtia.cc:42069/announce
 udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
+udp://node02.madtia.cc:42069/announce
 udp://node02.torrentonline.cc:42069/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce

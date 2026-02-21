@@ -2677,6 +2677,7 @@ udp://node01.edge-team.cc:42069/announce
 udp://node01.madtia.cc:42069/announce
 udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
+udp://node02.madtia.cc:42069/announce
 udp://node02.torrentonline.cc:42069/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
