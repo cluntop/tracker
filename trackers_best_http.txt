@@ -8,6 +8,7 @@ http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
+http://bt02.nnm-club.info:2710/announce
 http://concen.org:6969/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
@@ -23,6 +24,7 @@ http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
+http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -37,10 +39,12 @@ http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
+http://tracker.bt4g.com:2095/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
+http://tracker.huadongblower.xyz:8080/announce
+http://tracker.imgdump.lol:6969/announce
 http://tracker.kmzs123.com/announce
-http://tracker.memelords.xyz/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
