@@ -1,3 +1,4 @@
+https://1337.abcvg.info/announce
 https://bdremux.club/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
@@ -12,7 +13,6 @@ https://torrent.tracker.durukanbal.com/announce
 https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
-https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.iochimari.moe/announce
