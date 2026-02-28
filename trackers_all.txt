@@ -1175,6 +1175,7 @@ http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org80/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moeking.me:6969/announce
+http://tracker.morian.icu:443/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
