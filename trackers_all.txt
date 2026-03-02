@@ -2481,6 +2481,7 @@ udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://anidex.moe:6969/announce
 udp://anna.bt.bontal.net:6969/announce
+udp://announce.partis.si:80/announce
 udp://anzix.net:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 udp://api.boletera.org:3074/announce
