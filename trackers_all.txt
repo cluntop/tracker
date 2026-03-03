@@ -777,6 +777,7 @@ http://bt.endpot.com/announce
 http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
 http://bt.ktkj.com:8080/announce
+http://bt.nfshost.com:443/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.poletracker.org:2710/announce
@@ -1733,6 +1734,7 @@ https://yolo.liberbear.com:80/announce
 https://yuki.bt.bontal.net/announce
 https://zer0day.000webhostapp.com/announce
 udp://0205.uptm.ch:6969/announce
+udp://0d.kebhana.mx:443/announce
 udp://10.rarbg.com/announce
 udp://10.rarbg.com:6969/announce
 udp://101.99.94.187:6969/announce
@@ -2894,6 +2896,7 @@ udp://tracker.ccp.ovh:6969/announce
 udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.cloudbase.store:1333/announce
+udp://tracker.cloudit.top:443/announce
 udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.corpscorp.online:80/announce
