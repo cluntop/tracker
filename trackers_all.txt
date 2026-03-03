@@ -2523,6 +2523,7 @@ udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
 udp://bt.sc-ol.com:2710/announce
 udp://bt.xxx-tracker.com:2710/announce
+udp://bt.yui.cat:55268/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.54new.com:8080/announce
@@ -2842,6 +2843,7 @@ udp://torrentvpn.club:6990/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
+udp://tr.fuckbitcoin.xyz:443/announce
 udp://tr.movian.eu:6969/announce
 udp://tr2.cubonegro.lol:6969/announce
 udp://tr2.ysagin.top:2710/announce
