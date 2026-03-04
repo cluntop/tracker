@@ -1734,6 +1734,7 @@ https://yolo.liberbear.com/announce
 https://yolo.liberbear.com:80/announce
 https://yuki.bt.bontal.net/announce
 https://zer0day.000webhostapp.com/announce
+udp://0123456789nonexistent.com:80/announce
 udp://0205.uptm.ch:6969/announce
 udp://0d.kebhana.mx:443/announce
 udp://10.rarbg.com/announce
