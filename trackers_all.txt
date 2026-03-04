@@ -2534,6 +2534,7 @@ udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
+udp://btfans.3322.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
@@ -3040,6 +3041,7 @@ udp://tracker.skillindia.site:6969/announce
 udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
+udp://tracker.sloppyta.co:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
