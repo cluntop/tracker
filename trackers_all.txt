@@ -3088,6 +3088,7 @@ udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
+udp://tracker.zhuqiy.com:443/announce
 udp://tracker.zhuqiy.top:443/announce
 udp://tracker.zum.bi:6969/announce
 udp://tracker.zupix.online:1333/announce
