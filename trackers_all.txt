@@ -2582,6 +2582,7 @@ udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
 udp://download.nerocloud.me:6969/announce
 udp://dpiui.reedlan.com:6969/announce
+udp://drumkitx.com:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
@@ -3005,6 +3006,7 @@ udp://tracker.ocnix.net:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-data.network:8888/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:1337/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce

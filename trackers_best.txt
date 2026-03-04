@@ -20,7 +20,6 @@ http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
-http://open.demonii.si/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
@@ -55,7 +54,6 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
-http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
 http://tracker2.torrentino.com/announce
@@ -76,13 +74,11 @@ https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
-https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
-https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
-https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
+https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.bt4g.com/announce
 https://tracker.iochimari.moe/announce
 https://tracker.jiesen.life:8443/announce
@@ -886,6 +882,7 @@ udp://dmitrynegoda.com:6969/announce
 udp://dns.xxtor.com:53/announce
 udp://download.nerocloud.me:6969/announce
 udp://dpiui.reedlan.com:6969/announce
+udp://drumkitx.com:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
