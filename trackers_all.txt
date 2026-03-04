@@ -3100,6 +3100,7 @@ udp://tracker.zum.bi:6969/announce
 udp://tracker.zupix.online:1333/announce
 udp://tracker.zupix.online:6969/announce
 udp://tracker0.ufibox.com:6969/announce
+udp://tracker1.520.jp:443/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
