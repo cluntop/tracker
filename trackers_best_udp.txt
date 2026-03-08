@@ -322,6 +322,7 @@ udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
 udp://200.170.109.148:6969/announce
 udp://200.170.110.108:6969/announce
+udp://200.170.110.114:6969/announce
 udp://200.170.110.170:6969/announce
 udp://200.170.113.35:6969/announce
 udp://200.170.113.5:6969/announce
@@ -1056,9 +1057,6 @@ udp://tracker.nrx.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.openbittorrent.com:1337/announce
-udp://tracker.openbittorrent.com:6969/announce
-udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
