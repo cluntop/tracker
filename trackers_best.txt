@@ -1,6 +1,5 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
 http://216.144.239.90:6969/announce
@@ -10,7 +9,6 @@ http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://concen.org:6969/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
@@ -20,13 +18,13 @@ http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
+http://open.demonii.si/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
-http://s1124554.ha012.t.mydomain.zone/announce
 http://servandroidkino.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -67,11 +65,11 @@ http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://bdremux.club/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
-https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
@@ -79,11 +77,11 @@ https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
+https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
-https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.bt4g.com/announce
