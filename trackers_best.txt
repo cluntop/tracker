@@ -25,7 +25,6 @@ http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
-http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://servandroidkino.ru/announce
 http://siambit.com/announce
@@ -67,7 +66,6 @@ http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://bdremux.club/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
@@ -78,13 +76,12 @@ https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
-https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
-https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
+https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.bt4g.com/announce
 https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
@@ -99,6 +96,7 @@ https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
 https://tracker2.leaves.red/announce
 https://tracker3.leaves.red/announce
+https://www.wareztorrent.com/announce
 udp://0123456789nonexistent.com:80/announce
 udp://0205.uptm.ch:6969/announce
 udp://0d.kebhana.mx:443/announce

@@ -25,7 +25,6 @@ http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
-http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://servandroidkino.ru/announce
 http://siambit.com/announce
