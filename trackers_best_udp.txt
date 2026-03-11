@@ -1020,6 +1020,7 @@ udp://tracker.fatkhoala.org:13790/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.filepit.to:6969/announce
 udp://tracker.files.fm:6969/announce
+udp://tracker.flashtorrents.org:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.fortu.io:6969/announce
