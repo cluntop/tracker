@@ -6,8 +6,13 @@ http://195.123.209.40/announce
 http://216.144.239.90:6969/announce
 http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
+http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
+http://bt02.nnm-club.cc:2710/announce
+http://bt02.nnm-club.info:2710/announce
+http://concen.org:6969/announce
 http://extracker.dahrkael.net:6969/announce
+http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
@@ -15,7 +20,6 @@ http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
-http://open.demonii.si/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
@@ -30,6 +34,7 @@ http://t.nyaatracker.com/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
@@ -75,7 +80,6 @@ https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
-https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
@@ -875,7 +879,6 @@ udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
-udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
@@ -924,10 +927,10 @@ udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
+udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
-udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
@@ -1095,7 +1098,6 @@ udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cuntflaps.me:6969/announce
 udp://tracker.cyberia.is:6969/announce
-udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce

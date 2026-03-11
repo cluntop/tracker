@@ -776,7 +776,6 @@ udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
-udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
@@ -825,10 +824,10 @@ udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
+udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
-udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
@@ -996,7 +995,6 @@ udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cuntflaps.me:6969/announce
 udp://tracker.cyberia.is:6969/announce
-udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
