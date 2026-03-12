@@ -555,7 +555,6 @@ udp://61.216.165.60:6969/announce
 udp://61.216.165.60:80/announce
 udp://61.221.26.18:6969/announce
 udp://61.221.26.18:80/announce
-udp://61626c.net:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.138.18.152:6969/announce
 udp://62.165.63.187:6969/announce
@@ -785,7 +784,6 @@ udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
-udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -1067,9 +1065,6 @@ udp://tracker.nrx.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.openbittorrent.com:1337/announce
-udp://tracker.openbittorrent.com:6969/announce
-udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
