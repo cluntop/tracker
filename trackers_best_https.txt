@@ -13,6 +13,7 @@ https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
+https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr.torland.ga/announce
@@ -32,3 +33,4 @@ https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
 https://tracker2.leaves.red/announce
 https://tracker3.leaves.red/announce
+https://www.wareztorrent.com/announce
