@@ -1060,6 +1060,7 @@ udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.moxing.party:6969/announce
+udp://tracker.msm8916.com:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
@@ -1067,6 +1068,9 @@ udp://tracker.nrx.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:1337/announce
+udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
@@ -1085,6 +1089,7 @@ udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skillindia.site:6969/announce
+udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
