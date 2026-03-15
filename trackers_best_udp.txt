@@ -785,7 +785,6 @@ udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
-udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -842,6 +841,7 @@ udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
+udp://keke.re:6969/announce
 udp://kingof.torrentonline.cc:42069/announce
 udp://kiryuu-test.mywaifu.best:6969/announce
 udp://kokodayo.site:6969/announce
