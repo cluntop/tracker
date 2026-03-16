@@ -545,6 +545,7 @@ udp://52.58.128.163:6969/announce
 udp://54.36.179.216:6969/announce
 udp://54.39.48.3:6969/announce
 udp://57.128.230.226:80/announce
+udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
 udp://60.249.37.21:6969/announce
@@ -793,6 +794,8 @@ udp://dataforai.com:31332/announce
 udp://daveking.com:6969/announce
 udp://db.koikia.eu:6969/announce
 udp://debuz.com:6969/announce
+udp://denis.stalker.upeer.me:1337/announce
+udp://denis.stalker.upeer.me:6969/announce
 udp://devops.gay:6969/announce
 udp://dex.email:6969/announce
 udp://discord.heihachi.pw:6969/announce
