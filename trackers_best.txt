@@ -34,7 +34,6 @@ http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
-http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
@@ -70,7 +69,6 @@ https://bt.beatrice-raws.org/announce
 https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
-https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
@@ -78,9 +76,9 @@ https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
-https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
+https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
@@ -1261,7 +1259,6 @@ udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
-udp://www.peckservers.com:9000/announce
 udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
