@@ -1,5 +1,4 @@
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
 http://93.88.129.16/announce
@@ -41,6 +40,7 @@ http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -62,10 +62,11 @@ http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://www.ansktracker.net/announce
+http://www.genesis-sp.org:2710/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://bdremux.club/announce
 https://bt.beatrice-raws.org/announce
+https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
@@ -76,8 +77,8 @@ https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
-https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
+https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr.torland.ga/announce
@@ -429,6 +430,7 @@ udp://201.13.49.202:6969/announce
 udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
