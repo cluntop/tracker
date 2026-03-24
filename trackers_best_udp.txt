@@ -1,7 +1,6 @@
 udp://0123456789nonexistent.com:80/announce
 udp://0205.uptm.ch:6969/announce
 udp://0d.kebhana.mx:443/announce
-udp://10.rarbg.com:6969/announce
 udp://101.99.91.160:6969/announce
 udp://101.99.94.187:6969/announce
 udp://103.122.21.50:6969/announce
@@ -24,7 +23,6 @@ udp://108.53.194.223:6969/announce
 udp://108.61.166.249:6969/announce
 udp://109.121.134.121:1337/announce
 udp://109.201.134.183:80/announce
-udp://11.rarbg.com:80/announce
 udp://110.187.214.10:6969/announce
 udp://110.187.214.137:6969/announce
 udp://110.187.214.29:6969/announce
@@ -689,12 +687,6 @@ udp://89.234.156.205:451/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
-udp://9.rarbg.com:2710/announce
-udp://9.rarbg.com:2790/announce
-udp://9.rarbg.com:2810/announce
-udp://9.rarbg.com:2880/announce
-udp://9.rarbg.com:2930/announce
-udp://9.rarbg.com:2940/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2730/announce
@@ -1036,7 +1028,6 @@ udp://tracker.fatkhoala.org:13790/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.filepit.to:6969/announce
 udp://tracker.files.fm:6969/announce
-udp://tracker.flashtorrents.org:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.fortu.io:6969/announce
