@@ -2,10 +2,6 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
-http://216.144.239.90:6969/announce
-http://34.66.57.33:1337/announce
-http://34.66.57.33:2710/announce
-http://blackz.ro/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -14,7 +10,6 @@ http://bt02.nnm-club.info:2710/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
-http://home.yxgz.club:6969/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
@@ -27,7 +22,6 @@ http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.krs-ix.ru/announce
-http://retracker.spark-rostov.ru/announce
 http://retracker.x2k.ru/announce
 http://s1130639.ha009.t.mydomain.zone/announce
 http://servandroidkino.ru/announce
@@ -38,18 +32,16 @@ http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
-http://torrentsmd.me:8080/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
-http://tracker.bt-hash.com/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
-http://tracker.lintk.me:2710/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
@@ -57,6 +49,7 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
+http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
 http://tracker2.torrentino.com/announce
@@ -82,13 +75,13 @@ https://t.hdhome.org/announce
 https://t1.tokhmi.xyz/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
-https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker.7471.top/announce
 https://tracker.bt4g.com/announce
+https://tracker.cangku.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
 https://tracker.manager.v6.navy/announce
@@ -858,6 +851,7 @@ udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
+udp://bt.sc-ol.com:2710/announce
 udp://bt.yui.cat:55268/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
