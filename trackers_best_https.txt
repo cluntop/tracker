@@ -1,6 +1,4 @@
-https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
-https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
@@ -12,10 +10,12 @@ https://t.hdhome.org/announce
 https://t1.tokhmi.xyz/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
+https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
+https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.7471.top/announce
 https://tracker.bt4g.com/announce
 https://tracker.cangku.moe/announce
@@ -28,3 +28,4 @@ https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
+https://wolf.parrot.run/announce
