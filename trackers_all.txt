@@ -3091,6 +3091,7 @@ udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.sloppyta.co:443/announce
+udp://tracker.slowcheetah.org:14760/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.supertracker.net:1337/announce
