@@ -535,7 +535,6 @@ udp://5.45.69.185:6969/announce
 udp://5.75.253.124:6969/announce
 udp://5.79.249.77:6969/announce
 udp://5.79.83.193:6969/announce
-udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.15.41.46:6969/announce
@@ -747,7 +746,6 @@ udp://atrack.pow7.com:6969/announce
 udp://auratorrent.pl:8089/announce
 udp://axell24.ru:6969/announce
 udp://bananas.space:6969/announce
-udp://bandito.byterunner.io:6969/announce
 udp://bclearning.top:6969/announce
 udp://bedro.cloud:6969/announce
 udp://betelgeuse.freeddns.org:6969/announce
