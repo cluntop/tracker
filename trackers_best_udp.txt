@@ -562,7 +562,6 @@ udp://61.216.165.60:6969/announce
 udp://61.216.165.60:80/announce
 udp://61.221.26.18:6969/announce
 udp://61.221.26.18:80/announce
-udp://61626c.net:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.138.18.152:6969/announce
 udp://62.165.63.187:6969/announce
@@ -837,7 +836,6 @@ udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
-udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
@@ -1121,7 +1119,6 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
-udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zhuqiy.com:443/announce
 udp://tracker.zhuqiy.top:443/announce
 udp://tracker.zum.bi:6969/announce

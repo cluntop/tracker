@@ -1,5 +1,4 @@
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
@@ -16,12 +15,13 @@ http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
-http://open.demonii.si/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.krs-ix.ru/announce
+http://retracker.x2k.ru/announce
+http://s1130639.ha009.t.mydomain.zone/announce
 http://s1130642.ha014.t.mydomain.zone/announce
 http://servandroidkino.ru/announce
 http://siambit.com/announce
@@ -29,13 +29,12 @@ http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
+http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dm258.cn:7070/announce
-http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -58,11 +57,11 @@ http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.siambt.com/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
-https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
@@ -648,7 +647,6 @@ udp://61.216.165.60:6969/announce
 udp://61.216.165.60:80/announce
 udp://61.221.26.18:6969/announce
 udp://61.221.26.18:80/announce
-udp://61626c.net:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.138.18.152:6969/announce
 udp://62.165.63.187:6969/announce
@@ -923,7 +921,6 @@ udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
-udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
@@ -1207,7 +1204,6 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
-udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zhuqiy.com:443/announce
 udp://tracker.zhuqiy.top:443/announce
 udp://tracker.zum.bi:6969/announce
