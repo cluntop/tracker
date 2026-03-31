@@ -339,7 +339,6 @@ udp://201.13.49.202:6969/announce
 udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -734,7 +733,6 @@ udp://95.31.11.224:6969/announce
 udp://96.126.98.54:6969/announce
 udp://960303.xyz:6969/announce
 udp://97.117.101.163:9000/announce
-udp://aaa.army:8866/announce
 udp://aarsen.me:6969/announce
 udp://abufinzio.monocul.us:6969/announce
 udp://acxx.de:6969/announce
@@ -850,7 +848,6 @@ udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
 udp://keke.re:6969/announce
 udp://kingof.torrentonline.cc:42069/announce
-udp://kiryuu-test.mywaifu.best:6969/announce
 udp://kokodayo.site:6969/announce
 udp://kristof.bartanet.cz:6969/announce
 udp://laze.cc:6969/announce
