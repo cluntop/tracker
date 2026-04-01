@@ -748,7 +748,6 @@ udp://atrack.pow7.com:6969/announce
 udp://auratorrent.pl:8089/announce
 udp://axell24.ru:6969/announce
 udp://bananas.space:6969/announce
-udp://bandito.byterunner.io:6969/announce
 udp://bclearning.top:6969/announce
 udp://bedro.cloud:6969/announce
 udp://betelgeuse.freeddns.org:6969/announce
