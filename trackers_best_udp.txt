@@ -748,6 +748,7 @@ udp://atrack.pow7.com:6969/announce
 udp://auratorrent.pl:8089/announce
 udp://axell24.ru:6969/announce
 udp://bananas.space:6969/announce
+udp://bandito.byterunner.io:6969/announce
 udp://bclearning.top:6969/announce
 udp://bedro.cloud:6969/announce
 udp://betelgeuse.freeddns.org:6969/announce
@@ -762,7 +763,6 @@ udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
-udp://bt.sc-ol.com:2710/announce
 udp://bt.yui.cat:55268/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
@@ -1114,6 +1114,7 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.wepzone.net:6969/announce
+udp://tracker.wildkat.net:6969/announce
 udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.ygsub.com:6969/announce
