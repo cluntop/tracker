@@ -902,6 +902,7 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.u-p.pw:6969/announce
+udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 udp://opentracker.xyz:443/announce
 udp://opentrackr.org:1337/announce
@@ -923,7 +924,6 @@ udp://region.nl1.privex.cc:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
-udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.nts.su:2710/announce
 udp://retracker.sevstar.net:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -1068,6 +1068,9 @@ udp://tracker.nyaa.uk:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:1337/announce
+udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce

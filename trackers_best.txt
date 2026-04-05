@@ -1,7 +1,8 @@
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
+http://216.144.239.90:6969/announce
 http://34.94.213.23/announce
 http://93.88.129.16/announce
+http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -27,8 +28,11 @@ http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
+http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
+http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -39,6 +43,7 @@ http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
@@ -53,6 +58,7 @@ http://www.siambt.com/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
+https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
@@ -64,7 +70,6 @@ https://t.hdhome.org/announce
 https://t1.tokhmi.xyz/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
-https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
@@ -981,6 +986,7 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.u-p.pw:6969/announce
+udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 udp://opentracker.xyz:443/announce
 udp://opentrackr.org:1337/announce
@@ -1002,7 +1008,6 @@ udp://region.nl1.privex.cc:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
-udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.nts.su:2710/announce
 udp://retracker.sevstar.net:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -1147,6 +1152,9 @@ udp://tracker.nyaa.uk:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:1337/announce
+udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
