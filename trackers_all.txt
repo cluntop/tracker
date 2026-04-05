@@ -816,6 +816,7 @@ http://bt2.careland.com.cn:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
 http://bt2.edwardk.info:6969/announce
+http://bt4.t-ru.org/announce
 http://btfile.sdo.com:6961/announce
 http://btracker.top:11451/announce
 http://bttracker.crunchbanglinux.org:6969/announce
@@ -1165,6 +1166,7 @@ http://tracker.gbitt.info/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.ghostchu-services.top/announce
+http://tracker.ghostchu-services.top:443/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.guguan.000.pe/announce
@@ -1340,6 +1342,7 @@ http://wegkxfcivgx.ydns.eu/announce
 http://wepzone.net:6969/announce
 http://wg.mortis.me:6969/announce
 http://widemus.de:6969/announce
+http://wtorrent.manalejandro.com:443/announce
 http://www.all4nothin.net/announce
 http://www.ansktracker.net/announce
 http://www.bit-hdtv.com:2710/announce
@@ -2615,6 +2618,7 @@ udp://cloud.arzanmodern.ir:6969/announce
 udp://cloud.samtechnic.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://code2chicken.nl:6969/announce
+udp://coeus.torrentonline.cc:42069/announce
 udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce

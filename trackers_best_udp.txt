@@ -789,6 +789,7 @@ udp://chihaya.toss.li:9696/announce
 udp://city21.pk:6969/announce
 udp://cloud.arzanmodern.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
+udp://coeus.torrentonline.cc:42069/announce
 udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
@@ -882,10 +883,8 @@ udp://nagios.tks.sumy.ua:80/announce
 udp://navegador.click:6969/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
-udp://node01.madtia.cc:42069/announce
 udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
-udp://node02.madtia.cc:42069/announce
 udp://node02.torrentonline.cc:42069/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
