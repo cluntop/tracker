@@ -827,6 +827,7 @@ http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://bz.tracker.bz/announce
 http://canardscitrons.nohost.me:6969/announce
+http://carapax.net:443/announce
 http://carbon-bonsai-621.appspot.com/announce
 http://ch3oh.ru:6969/announce
 http://chihaya.de/announce
