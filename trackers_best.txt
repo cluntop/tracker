@@ -1,5 +1,4 @@
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://216.144.239.90:6969/announce
 http://34.94.213.23/announce
 http://bt.beatrice-raws.org/announce
@@ -21,11 +20,9 @@ http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.krs-ix.ru/announce
 http://retracker.x2k.ru/announce
-http://s1130642.ha014.t.mydomain.zone/announce
 http://servandroidkino.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
-http://t.nyaatracker.com/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
@@ -33,7 +30,6 @@ http://torrent.unix-ag.uni-kl.de/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -74,7 +70,6 @@ https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
-https://tracker.cangku.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
 https://tracker.manager.v6.navy/announce
@@ -85,6 +80,7 @@ https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
+https://wsad.run.place/announce
 udp://0123456789nonexistent.com:80/announce
 udp://0205.uptm.ch:6969/announce
 udp://0d.kebhana.mx:443/announce
