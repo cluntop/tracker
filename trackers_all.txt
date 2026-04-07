@@ -1226,6 +1226,7 @@ http://tracker.novalayer.org:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyaa.uk:6969/announce
+http://tracker.nyaa.vc:6969/announce
 http://tracker.nyaa2p.i2p/announce
 http://tracker.nyacat.pw:7000/announce
 http://tracker.nyap2p.com:8080/announce
