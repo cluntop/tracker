@@ -1,4 +1,5 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://216.144.239.90:6969/announce
 http://34.94.213.23/announce
 http://93.88.129.16/announce
@@ -6,6 +7,7 @@ http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
+http://bt02.nnm-club.info:2710/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
@@ -21,13 +23,14 @@ http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
+http://t.nyaatracker.com/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
-http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
+http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -55,10 +58,12 @@ http://uatracker.net/announce
 http://www.siambt.com/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
+https://agsvpt.trackers.work/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
+https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
@@ -66,8 +71,8 @@ https://t.hdhome.org/announce
 https://t1.tokhmi.xyz/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
-https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.nyacat.pw/announce
+https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
@@ -80,6 +85,7 @@ https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
+https://wolf.parrot.run/announce
 udp://0123456789nonexistent.com:80/announce
 udp://0205.uptm.ch:6969/announce
 udp://0d.kebhana.mx:443/announce
