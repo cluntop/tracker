@@ -17,10 +17,11 @@ https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
-https://tracker.bt4g.com/announce
+https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
 https://tracker.manager.v6.navy/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -28,4 +29,3 @@ https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
-https://wsad.run.place/announce
