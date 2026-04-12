@@ -3226,6 +3226,7 @@ udp://tracker_proxy:66/announce
 udp://tracker_proxy:67/announce
 udp://tracker_proxy:68/announce
 udp://trackerb.jonaslsa.com:6969/announce
+udp://trackthis.cyber.pz.it:1337/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
