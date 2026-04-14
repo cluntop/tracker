@@ -1164,6 +1164,7 @@ udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://vito-tracker.duckdns.org:6969/announce
 udp://vps02.net.orel.ru:80/announce
 udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
@@ -1174,6 +1175,7 @@ udp://www.eddie4.nl:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
+udp://www.peckservers.com:9000/announce
 udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
