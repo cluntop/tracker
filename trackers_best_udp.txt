@@ -914,7 +914,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://parag.rs:6969/announce
 udp://passpulse.net:8000/announce
-udp://peerfect.org:6969/announce
 udp://pirate.t-1.org:1337/announce
 udp://pow7.com:6969/announce
 udp://pow7.com:80/announce
