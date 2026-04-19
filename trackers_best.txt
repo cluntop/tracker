@@ -1,11 +1,12 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://34.94.213.23/announce
 http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
+http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://concen.org:6969/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
@@ -18,17 +19,15 @@ http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
-http://share.camoe.cn:8080/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
-http://t.acg.rip:6699/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
+http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -45,6 +44,7 @@ http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
+http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
 http://tracker2.torrentino.com/announce
@@ -57,7 +57,6 @@ http://www.bitseduce.com/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
-https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
@@ -70,6 +69,7 @@ https://t1.tokhmi.xyz/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
+https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.kawaii.id/announce
@@ -1239,7 +1239,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://ttr.croco.net:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://uabits.today:6990/announce
-udp://udp-tracker.shittyurl.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://unknownsite.de:6969/announce
