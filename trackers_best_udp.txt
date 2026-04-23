@@ -760,6 +760,7 @@ udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
+udp://bt.sc-ol.com:2710/announce
 udp://bt.yui.cat:55268/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
@@ -941,6 +942,7 @@ udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://storage.groupees.com:6969/announce
 udp://su-data.com:6969/announce
+udp://sub4all.org:2710/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
 udp://t.overflow.biz:6969/announce
@@ -1068,6 +1070,7 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.renfei.net:8080/announce
+udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
 udp://tracker.sharebro.in:6969/announce
@@ -1158,6 +1161,7 @@ udp://whybother.torrentonline.cc:42069/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
+udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
