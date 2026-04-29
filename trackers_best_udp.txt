@@ -1039,7 +1039,6 @@ udp://tracker.hismz.cn:6969/announce
 udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.iperson.xyz:6969/announce
-udp://tracker.ixuexi.click:6969/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.kmzs123.com:17272/announce
 udp://tracker.kmzs123.com:443/announce
