@@ -1,4 +1,5 @@
 https://bt.beatrice-raws.org/announce
+https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
@@ -9,6 +10,7 @@ https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
+https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
@@ -21,7 +23,6 @@ https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
-https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
