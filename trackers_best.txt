@@ -5,11 +5,9 @@ http://34.94.213.23/announce
 http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://concen.org:6969/announce
-http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://mediaclub.tv/announce
@@ -28,7 +26,6 @@ http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -53,6 +50,7 @@ http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
+https://colibri.parrot.run/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
@@ -64,6 +62,7 @@ https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
+https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.kawaii.id/announce
@@ -74,6 +73,7 @@ https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
