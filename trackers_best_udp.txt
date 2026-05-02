@@ -871,7 +871,6 @@ udp://montreal.nyap2p.com:8080/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 udp://mserver.link:6969/announce
-udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://navegador.click:6969/announce
 udp://netmap.top:6969/announce
