@@ -741,7 +741,6 @@ udp://anidex.moe:6969/announce
 udp://anzix.net:6969/announce
 udp://app.icon256.com:8000/announce
 udp://archive.torrentonline.cc:42069/announce
-udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
 udp://atrack.pow7.com:6969/announce
 udp://auratorrent.pl:8089/announce
