@@ -1,4 +1,3 @@
-https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
@@ -10,9 +9,8 @@ https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
-https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr.nyacat.pw/announce
-https://tr.qfruiti.com/announce
+https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.kawaii.id/announce
@@ -23,7 +21,6 @@ https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
-https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
