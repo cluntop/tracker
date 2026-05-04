@@ -30,6 +30,7 @@ udp://110.187.214.6:6969/announce
 udp://110.187.215.166:6969/announce
 udp://111.90.151.241:6969/announce
 udp://114.55.113.60:6969/announce
+udp://116.202.177.184:6969/announce
 udp://116.202.49.58:6969/announce
 udp://116.8.90.121:6969/announce
 udp://116.8.90.235:6969/announce
@@ -44,6 +45,7 @@ udp://117.29.108.251:2710/announce
 udp://117.29.108.251:6969/announce
 udp://118.163.198.106:6969/announce
 udp://118.163.198.106:80/announce
+udp://118.196.100.63:6969/announce
 udp://118.25.157.230:6969/announce
 udp://119.28.71.45:8080/announce
 udp://120.36.84.188:2710/announce
@@ -52,6 +54,7 @@ udp://120.36.84.3:6969/announce
 udp://120.36.84.48:2710/announce
 udp://120.36.84.48:6969/announce
 udp://120.36.85.245:2710/announce
+udp://120.78.150.131:6969/announce
 udp://121.199.16.229:6969/announce
 udp://125.227.79.123:6969/announce
 udp://125.227.79.123:80/announce
@@ -115,6 +118,8 @@ udp://159.195.43.181:80/announce
 udp://160.251.231.187:6969/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
+udp://163.5.63.253:6990/announce
+udp://164.152.110.70:6969/announce
 udp://167.99.185.219:6969/announce
 udp://168.235.67.63:6969/announce
 udp://171.104.111.201:6969/announce
@@ -171,6 +176,7 @@ udp://177.215.67.115:6969/announce
 udp://177.215.67.165:6969/announce
 udp://177.27.223.184:6969/announce
 udp://177.27.223.186:6969/announce
+udp://177.32.238.49:6969/announce
 udp://178.128.94.74:6969/announce
 udp://178.156.140.15:53/announce
 udp://178.156.140.201:3074/announce
@@ -346,7 +352,6 @@ udp://201.13.49.202:6969/announce
 udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -516,6 +521,7 @@ udp://44.30.4.70:6969/announce
 udp://45.13.119.213:6969/announce
 udp://45.130.21.69:6969/announce
 udp://45.134.88.121:6969/announce
+udp://45.137.199.107:6969/announce
 udp://45.154.214.21:6969/announce
 udp://45.154.96.35:6969/announce
 udp://45.155.53.144:6969/announce
@@ -559,6 +565,7 @@ udp://51.222.82.36:6969/announce
 udp://51.254.244.161:6969/announce
 udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
+udp://52.211.139.85:27022/announce
 udp://52.58.128.163:6969/announce
 udp://54.36.179.216:6969/announce
 udp://54.39.48.3:6969/announce
@@ -696,6 +703,7 @@ udp://85.239.33.28:6969/announce
 udp://86.127.239.222:1234/announce
 udp://86.127.250.81:1234/announce
 udp://86.57.161.157:6969/announce
+udp://87.106.210.134:6969/announce
 udp://88.216.2.71:6969/announce
 udp://88.80.22.67:2710/announce
 udp://88.80.28.7:6969/announce
@@ -719,6 +727,7 @@ udp://91.216.110.53:451/announce
 udp://91.217.91.21:3218/announce
 udp://91.218.230.81:6969/announce
 udp://91.238.104.240:6969/announce
+udp://91.98.161.68:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
