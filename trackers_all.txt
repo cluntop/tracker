@@ -2667,6 +2667,7 @@ udp://caramelo.ddns.net:8000/announce
 udp://carapax.net:6969/announce
 udp://carr.codes:6969/announce
 udp://cdn-1.gamecoast.org:6969/announce
+udp://cerf.cs.umd.edu:8000/announce
 udp://ch3oh.ru:6969/announce
 udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
