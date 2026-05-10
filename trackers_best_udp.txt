@@ -1036,6 +1036,7 @@ udp://tracker.dump.cl:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.emule.best:6969/announce
+udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.exe.in.th:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
@@ -1070,6 +1071,7 @@ udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.moxing.party:6969/announce
+udp://tracker.msm8916.com:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
@@ -1094,6 +1096,7 @@ udp://tracker.sbsub.com:2710/announce
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.shkinev.me:6969/announce
 udp://tracker.skillindia.site:6969/announce
+udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.slowcheetah.org:14760/announce
 udp://tracker.srv00.com:6969/announce
