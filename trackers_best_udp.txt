@@ -1034,6 +1034,7 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.dump.cl:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.eddie4.nl:6969/announce
+udp://tracker.edkj.club:6969/announce
 udp://tracker.emule.best:6969/announce
 udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.etree.org:6969/announce
@@ -1160,6 +1161,7 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://ttr.croco.net:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://uabits.today:6990/announce
+udp://udp.trackarr.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://unknownsite.de:6969/announce
