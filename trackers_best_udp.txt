@@ -266,6 +266,7 @@ udp://189.18.127.125:6969/announce
 udp://189.18.127.21:6969/announce
 udp://189.18.127.57:6969/announce
 udp://189.18.162.106:6969/announce
+udp://189.18.162.12:6969/announce
 udp://189.18.162.54:6969/announce
 udp://189.18.163.167:6969/announce
 udp://189.18.96.56:6969/announce
@@ -744,6 +745,7 @@ udp://94.23.183.33:6969/announce
 udp://94.23.207.177:6969/announce
 udp://94.243.222.100:6969/announce
 udp://94.250.253.220:6969/announce
+udp://94.72.140.51:6969/announce
 udp://95.211.168.204:2710/announce
 udp://95.216.74.39:6969/announce
 udp://95.31.11.224:6969/announce
@@ -1079,6 +1081,7 @@ udp://tracker.nyaa.uk:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
