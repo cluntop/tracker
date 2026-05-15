@@ -704,6 +704,7 @@ udp://83.6.231.203:6969/announce
 udp://83.6.233.63:6969/announce
 udp://84.197.224.61:6969/announce
 udp://84.54.51.78:6969/announce
+udp://85.121.5.80:6969/announce
 udp://85.17.19.180:80/announce
 udp://85.239.33.28:6969/announce
 udp://86.127.239.222:1234/announce
@@ -764,7 +765,6 @@ udp://anidex.moe:6969/announce
 udp://anzix.net:6969/announce
 udp://app.icon256.com:8000/announce
 udp://archive.torrentonline.cc:42069/announce
-udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
 udp://atrack.pow7.com:6969/announce
 udp://auratorrent.pl:8089/announce
@@ -1085,9 +1085,6 @@ udp://tracker.nyaa.uk:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.openbittorrent.com:1337/announce
-udp://tracker.openbittorrent.com:6969/announce
-udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
