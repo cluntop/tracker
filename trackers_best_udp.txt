@@ -992,6 +992,7 @@ udp://torrents.tmtime.dev:6969/announce
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://torrentvpn.club:6990/announce
 udp://tr.bangumi.moe:6969/announce
+udp://tr.btube3.com:2010/announce
 udp://tr.cili001.com:8070/announce
 udp://tr.fuckbitcoin.xyz:443/announce
 udp://tr3.ysagin.top:2715/announce
