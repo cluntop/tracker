@@ -765,6 +765,7 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://anzix.net:6969/announce
 udp://app.icon256.com:8000/announce
 udp://archive.torrentonline.cc:42069/announce
+udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
 udp://atrack.pow7.com:6969/announce
 udp://auratorrent.pl:8089/announce
@@ -1166,7 +1167,6 @@ udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://ttr.croco.net:6969/announce
-udp://u.peer-exchange.download:6969/announce
 udp://uabits.today:6990/announce
 udp://udp.trackarr.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
