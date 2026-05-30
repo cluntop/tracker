@@ -1,3 +1,4 @@
+https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://opentracker.co/announce
 https://retracker.x2k.ru/announce
@@ -7,9 +8,9 @@ https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
+https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
-https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
@@ -17,11 +18,11 @@ https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
 https://tracker.manager.itislove.cz/announce
 https://tracker.manager.v6.navy/announce
+https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
-https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
