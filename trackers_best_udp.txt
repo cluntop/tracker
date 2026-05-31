@@ -1181,6 +1181,8 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vito-tracker.duckdns.org:6969/announce
+udp://vito-tracker.space:2095/announce
+udp://vito-tracker.space:6969/announce
 udp://vps02.net.orel.ru:80/announce
 udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wg.mortis.me:6969/announce
