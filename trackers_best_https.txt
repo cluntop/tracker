@@ -1,5 +1,4 @@
 https://1337.abcvg.info/announce
-https://bt.beatrice-raws.org/announce
 https://opentracker.co/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -8,12 +7,12 @@ https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
+https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
-https://tracker.bug38.com/announce
 https://tracker.keepfrds.com/announce
 https://tracker.manager.itislove.cz/announce
 https://tracker.manager.v6.navy/announce
