@@ -18,7 +18,6 @@ http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
-http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
@@ -40,13 +39,9 @@ http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
-http://tracker1.torrentino.com/announce
-http://tracker2.torrentino.com/announce
-http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://tracker9.bol.bg/announce
-http://uatracker.net/announce
 http://www.wareztorrent.com/announce
 https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
@@ -65,7 +60,6 @@ https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
-https://tracker.madtia.cc/announce
 https://tracker.manager.itislove.cz/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
@@ -1221,10 +1215,10 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
-udp://tracker.ygsub.com:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zhuqiy.com:443/announce
