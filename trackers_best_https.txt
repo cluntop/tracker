@@ -9,7 +9,6 @@ https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
 https://tr.nyacat.pw/announce
-https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
 https://tracker.bigbewbs.online/announce
@@ -25,5 +24,4 @@ https://tracker.totheglory.im/announce
 https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
-https://tracker1.520.jp/announce
 https://www.wareztorrent.com/announce
