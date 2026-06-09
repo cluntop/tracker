@@ -19,17 +19,14 @@ http://opentracker.xyz/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
-http://siambit.com/announce
+http://retracker.x2k.ru/announce
 http://t-backup.213891.xyz/announce
-http://t.nyaatracker.com/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
-http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.fansub.id/announce
@@ -64,7 +61,6 @@ https://tracker.anibt.net/announce
 https://tracker.bigbewbs.online/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
-https://tracker.madtia.cc/announce
 https://tracker.manager.itislove.cz/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
@@ -1020,7 +1016,6 @@ udp://pow7.com:6969/announce
 udp://pow7.com:80/announce
 udp://psyco.fr:6969/announce
 udp://public.demonoid.ch:6969/announce
-udp://public.popcorn-tracker.org:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
