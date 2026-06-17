@@ -939,6 +939,7 @@ udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 udp://opentracker.xyz:443/announce
 udp://opentrackr.org:1337/announce
+udp://oscar.reyesleon.xyz:6969/announce
 udp://p4p.arenabg.ch:1337/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
@@ -1161,7 +1162,6 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zhuqiy.com:443/announce
