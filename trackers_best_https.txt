@@ -10,7 +10,6 @@ https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
-https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
 https://tracker.bigbewbs.online/announce
