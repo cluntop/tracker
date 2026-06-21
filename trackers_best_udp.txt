@@ -1083,6 +1083,8 @@ udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hismz.cn:6969/announce
 udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.iamhansen.xyz:2000/announce
+udp://tracker.ilibr.org:6969/announce
+udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.kali.org:6969/announce
@@ -1162,6 +1164,7 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zhuqiy.com:443/announce
