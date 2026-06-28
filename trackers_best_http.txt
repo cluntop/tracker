@@ -8,7 +8,6 @@ http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://connect.swifte.space:2710/announce
@@ -22,6 +21,7 @@ http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://t-backup.213891.xyz/announce
+http://t.nyaatracker.com/announce
 http://thetracker.org/announce
 http://tk.cubicview.site/announce
 http://torrent.nwps.ws/announce
@@ -42,7 +42,6 @@ http://tracker.merded.xyz:8000/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
 http://tracker.privateseedbox.xyz:2710/announce
-http://tracker.sbsub.com:2710/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
