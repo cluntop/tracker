@@ -42,6 +42,7 @@ http://tracker.merded.xyz:8000/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
 http://tracker.privateseedbox.xyz:2710/announce
+http://tracker.sbsub.com:2710/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
