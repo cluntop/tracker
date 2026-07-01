@@ -1,4 +1,5 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://152.53.194.103:2710/announce
 http://216.144.239.90:6969/announce
 http://37.120.182.83/announce
@@ -29,6 +30,7 @@ http://thetracker.org/announce
 http://tk.cubicview.site/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
