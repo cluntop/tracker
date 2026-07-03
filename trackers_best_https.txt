@@ -1,6 +1,5 @@
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
-https://bt-tracker.wasmer.app/announce
 https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://opentracker.co/announce
