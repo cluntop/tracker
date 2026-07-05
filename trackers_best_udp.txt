@@ -1144,7 +1144,6 @@ udp://tracker.thinelephant.org:12770/announce
 udp://tracker.tnl.one:8000/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentbay.to:6969/announce
-udp://tracker.torrenty.org:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trojangogogo.site:8080/announce
 udp://tracker.tryhackx.org:6969/announce
