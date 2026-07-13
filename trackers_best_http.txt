@@ -9,6 +9,7 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
+http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://connect.swifte.space:2710/announce
@@ -17,6 +18,7 @@ http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
+http://ns3109441.mypdns.org:6969/announce
 http://open.demonii.si/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
