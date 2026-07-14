@@ -10,7 +10,6 @@ https://torrent.opiums.eu/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
-https://tracker.adgk.net/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.isbigdick.cc.cd/announce
