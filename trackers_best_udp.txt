@@ -835,7 +835,6 @@ udp://coeus.torrentonline.cc:42069/announce
 udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://coppersurfer.tk:6969/announce
-udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
