@@ -8,11 +8,15 @@ http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
+http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://buny.uk:6969/announce
 http://connect.swifte.space:2710/announce
+http://home.yxgz.club:6969/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
+http://isk.richardsw.club:6969/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
@@ -33,6 +37,7 @@ http://tk.cubicview.site/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
@@ -46,6 +51,7 @@ http://tracker.cubicview.site/announce
 http://tracker.cubonegro.org/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
+http://tracker.lintk.me:2710/announce
 http://tracker.merded.xyz:8000/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
@@ -53,6 +59,7 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.vanitycore.co:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
@@ -84,7 +91,6 @@ https://tracker.bt4g.com/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
 https://tracker.manager.v6.navy/announce
-https://tracker.maya.no.eu.org/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
@@ -463,7 +469,6 @@ udp://201.13.49.202:6969/announce
 udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
