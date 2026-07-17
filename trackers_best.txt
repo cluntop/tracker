@@ -11,6 +11,7 @@ http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://connect.swifte.space:2710/announce
+http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
@@ -22,6 +23,7 @@ http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
+http://siambit.com/announce
 http://siambit.org/announce
 http://supertracker.cc.cd/announce
 http://t-backup.213891.xyz/announce
@@ -58,9 +60,10 @@ http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
+http://tracker2.torrentino.com/announce
+http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
-http://www.bitseduce.com/announce
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
@@ -75,8 +78,8 @@ https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
-https://tr2.trkb.ru/announce
 https://tracker.adgk.net/announce
+https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
@@ -88,6 +91,7 @@ https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
+https://wolf.parrot.run/announce
 udp://0123456789nonexistent.com:80/announce
 udp://0205.uptm.ch:6969/announce
 udp://0d.kebhana.mx:443/announce

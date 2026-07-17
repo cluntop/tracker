@@ -12,8 +12,8 @@ https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
-https://tr2.trkb.ru/announce
 https://tracker.adgk.net/announce
+https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
@@ -25,3 +25,4 @@ https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
+https://wolf.parrot.run/announce
