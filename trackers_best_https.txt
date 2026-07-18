@@ -16,8 +16,6 @@ https://tr2.trkb.ru/announce
 https://tracker.adgk.net/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
-https://tracker.cangku.moe/announce
-https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
@@ -25,5 +23,6 @@ https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
