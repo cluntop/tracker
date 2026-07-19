@@ -8,9 +8,11 @@ http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
+http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://connect.swifte.space:2710/announce
+http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
@@ -22,7 +24,6 @@ http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
-http://siambit.com/announce
 http://siambit.org/announce
 http://supertracker.cc.cd/announce
 http://t-backup.213891.xyz/announce
@@ -94,6 +95,7 @@ https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
+https://wolf.parrot.run/announce
 udp://0123456789nonexistent.com:80/announce
 udp://0205.uptm.ch:6969/announce
 udp://0d.kebhana.mx:443/announce
@@ -992,7 +994,6 @@ udp://jvavav.com:6969/announce
 udp://keke.re:6969/announce
 udp://kingof.torrentonline.cc:42069/announce
 udp://kokodayo.site:6969/announce
-udp://kristof.bartanet.cz:6969/announce
 udp://laze.cc:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://leet-tracker.moe:23861/announce
@@ -1140,7 +1141,6 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btzoo.eu:80/announce
 udp://tracker.christianbro.pw:6969/announce
-udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
