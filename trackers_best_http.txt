@@ -8,7 +8,6 @@ http://37.60.249.217:6969/announce
 http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://asiatorrent.giize.com:51413/announce
-http://blackz.ro/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -21,12 +20,14 @@ http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
 http://ns3109441.mypdns.org:6969/announce
 http://open.demonii.si/announce
+http://open.trackerlist.xyz/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
+http://shubt.net:2710/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://supertracker.cc.cd/announce
@@ -47,8 +48,10 @@ http://tracker.anonwebz.xyz:8080/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
+http://tracker.corpscorp.online/announce
 http://tracker.cubicview.site/announce
 http://tracker.cubonegro.org/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
