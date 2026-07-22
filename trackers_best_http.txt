@@ -25,6 +25,7 @@ http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
+http://siambit.com/announce
 http://siambit.org/announce
 http://supertracker.cc.cd/announce
 http://t-backup.213891.xyz/announce
