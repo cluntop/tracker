@@ -9,13 +9,13 @@ http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
+http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://connect.swifte.space:2710/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://mediaclub.tv/announce
-http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
 http://open.demonii.si/announce
 http://opentracker.io/announce
@@ -33,6 +33,7 @@ http://tk.cubicview.site/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
@@ -82,13 +83,11 @@ https://tracker.bt4g.com/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
-https://tracker.maya.no.eu.org/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
-https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 udp://0123456789nonexistent.com:80/announce
@@ -1149,7 +1148,6 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btzoo.eu:80/announce
 udp://tracker.christianbro.pw:6969/announce
-udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
