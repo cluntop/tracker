@@ -17,6 +17,7 @@ http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
+http://ns3109441.mypdns.org:6969/announce
 http://open.demonii.si/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
