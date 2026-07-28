@@ -2,12 +2,13 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://152.53.194.103:2710/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33:2701/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
 http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
-http://asiatorrent.giize.com:51413/announce
+http://blackz.ro/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -38,6 +39,7 @@ http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
+http://torrentsmd.me:8080/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
@@ -70,6 +72,7 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
+http://www.chouchou.club:8080/announce
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
@@ -82,6 +85,7 @@ https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
+https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
 https://tracker.adgk.net/announce
@@ -1138,6 +1142,7 @@ udp://tr.bangumi.moe:6969/announce
 udp://tr.btube3.com:2010/announce
 udp://tr.cili001.com:8070/announce
 udp://tr.fuckbitcoin.xyz:443/announce
+udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://tracker-udp.anirena.com:80/announce
