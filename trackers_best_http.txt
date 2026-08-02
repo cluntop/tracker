@@ -37,6 +37,7 @@ http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
 http://ns3109441.mypdns.org:6969/announce
+http://open.demonii.si/announce
 http://open.trackerlist.xyz/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
@@ -73,7 +74,7 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.corpscorp.online/announce
 http://tracker.cubicview.site/announce
 http://tracker.cubonegro.org/announce
-http://tracker.dmcomic.org:2710/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.ipv6tracker.org/announce
 http://tracker.iro.moe/announce
@@ -92,6 +93,7 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xiaoduola.xyz:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
@@ -101,3 +103,4 @@ http://tracker5.torrentino.com/announce
 http://tracker810.xyz:11450/announce
 http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
+http://www.torrentsnipe.info:2701/announce
