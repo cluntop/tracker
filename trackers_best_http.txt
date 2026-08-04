@@ -7,6 +7,7 @@ http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
 http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
+http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.dl1234.com/announce
 http://bt.nnm-club.info:2710/announce
@@ -67,3 +68,4 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
+http://www.bitseduce.com/announce
