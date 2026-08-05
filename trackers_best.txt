@@ -12,8 +12,6 @@ http://bt.dl1234.com/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://bz.tracker.bz/announce
-http://home.yxgz.club:6969/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
@@ -38,6 +36,7 @@ http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
+http://torrentsmd.me:8080/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
@@ -50,7 +49,6 @@ http://tracker.cubicview.site/announce
 http://tracker.cubonegro.org/announce
 http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
-http://tracker.ipv6tracker.org/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
 http://tracker.minglong.org:8080/announce
@@ -69,8 +67,6 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
-http://www.bitseduce.com/announce
-http://www.torrentsnipe.info:2701/announce
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
