@@ -14,7 +14,9 @@ http://bt02.nnm-club.info:2710/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
+http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
+http://ns3109441.mypdns.org:6969/announce
 http://open.demonii.si/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
@@ -33,6 +35,7 @@ http://torrent-team.net/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
@@ -44,7 +47,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubicview.site/announce
 http://tracker.cubonegro.org/announce
 http://tracker.dm258.cn:7070/announce
-http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
@@ -58,7 +60,6 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
@@ -67,6 +68,7 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
+http://www.bitseduce.com/announce
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
@@ -89,7 +91,6 @@ https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
-https://tracker.parrotlinux.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
