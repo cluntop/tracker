@@ -873,7 +873,6 @@ udp://devops.gay:6969/announce
 udp://dex.email:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dmitrynegoda.com:6969/announce
-udp://dpiui.reedlan.com:6969/announce
 udp://drumkitx.com:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
@@ -1216,6 +1215,7 @@ udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://ttr.croco.net:6969/announce
 udp://uabits.today:6990/announce
+udp://udp.tracker.linvk.com:6969/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://unknownsite.de:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
