@@ -18,6 +18,7 @@ http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
+http://ns3109441.mypdns.org:6969/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
@@ -81,6 +82,7 @@ https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 udp://0123456789nonexistent.com:80/announce
