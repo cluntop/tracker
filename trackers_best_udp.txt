@@ -875,6 +875,7 @@ udp://devops.gay:6969/announce
 udp://dex.email:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dmitrynegoda.com:6969/announce
+udp://dpiui.reedlan.com:6969/announce
 udp://drumkitx.com:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
