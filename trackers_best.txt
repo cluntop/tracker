@@ -1,8 +1,11 @@
+http://0123456789nonexistent.com/announce
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://152.53.194.103:2710/announce
 http://195.123.209.40/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33:1337/announce
+http://34.66.57.33:6969/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
@@ -13,7 +16,10 @@ http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://bt1.xxxxbt.cc:6969/announce
+http://home.yxgz.club:6969/announce
 http://irrenhaus.dyndns.dk/announce
+http://jvavav.com/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
@@ -54,6 +60,7 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
@@ -75,10 +82,10 @@ https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
 https://tracker.adgk.net/announce
 https://tracker.bt4g.com/announce
-https://tracker.cangku.moe/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
@@ -1201,6 +1208,7 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.fortu.io:6969/announce
 udp://tracker.frozen-layer.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.govt.hu:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.hismz.cn:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
@@ -1234,6 +1242,9 @@ udp://tracker.nyaa.uk:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:1337/announce
+udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
