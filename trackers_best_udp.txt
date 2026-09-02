@@ -1125,7 +1125,6 @@ udp://tracker.kmzs123.com:17272/announce
 udp://tracker.kmzs123.com:443/announce
 udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.kuroy.me:5944/announce
-udp://tracker.loadbt.com:6969/announce
 udp://tracker.lyretain.site:2710/announce
 udp://tracker.merded.xyz:8000/announce
 udp://tracker.mg64.net:2710/announce
@@ -1241,7 +1240,6 @@ udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
-udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
 udp://www.tvnihon.com:6969/announce
 udp://xxxtor.com:2710/announce
