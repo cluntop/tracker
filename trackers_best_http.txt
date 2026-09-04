@@ -9,6 +9,7 @@ http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
 http://93.88.129.16/announce
+http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -41,7 +42,7 @@ http://tracker.bittorrent.am/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
-http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
@@ -52,9 +53,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:7070/announce
-http://tracker.xfapi.top:9999/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
