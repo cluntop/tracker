@@ -8,7 +8,9 @@ http://216.144.239.90:6969/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
+http://52.70.94.249/announce
 http://93.88.129.16/announce
+http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -67,7 +69,6 @@ http://tracker5.torrentino.com/announce
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
-https://edgev.duckdns.org/announce
 https://opentracker.co/announce
 https://retracker.gorcomnet.ru/announce
 https://retracker.x2k.ru/announce
@@ -77,7 +78,6 @@ https://t.audiences.me/announce
 https://t.btcland.xyz/announce
 https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
-https://tr-zhuqiy-2.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
 https://tracker.adgk.net/announce
@@ -88,7 +88,6 @@ https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.onetracker.net/announce
-https://tracker.parrotlinux.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
