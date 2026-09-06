@@ -23,6 +23,7 @@ http://open.demonii.si/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
@@ -87,6 +88,7 @@ https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.onetracker.net/announce
+https://tracker.parrotlinux.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -1138,7 +1140,6 @@ udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
-udp://torrentclub.space:6969/announce
 udp://torrentclub.tech:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
@@ -1193,7 +1194,6 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.dump.cl:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.eddie4.nl:6969/announce
-udp://tracker.edkj.club:6969/announce
 udp://tracker.emule.best:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.exe.in.th:6969/announce
