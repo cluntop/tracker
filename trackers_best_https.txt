@@ -16,6 +16,7 @@ https://t.audiences.me/announce
 https://t.btcland.xyz/announce
 https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
+https://tr-zhuqiy-2.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
 https://tracker.adgk.net/announce
@@ -30,4 +31,3 @@ https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
-https://wolf.parrot.run/announce
