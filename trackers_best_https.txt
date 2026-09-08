@@ -6,7 +6,6 @@ https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
-https://colibri.parrot.run/announce
 https://opentracker.co/announce
 https://retracker.gorcomnet.ru/announce
 https://retracker.x2k.ru/announce
@@ -16,13 +15,13 @@ https://t.audiences.me/announce
 https://t.btcland.xyz/announce
 https://t.hdhome.org/announce
 https://torrent.opiums.eu/announce
-https://tr-zhuqiy-2.dgj055.icu/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
 https://tracker.adgk.net/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.onetracker.net/announce
@@ -31,4 +30,3 @@ https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
-https://wolf.parrot.run/announce
