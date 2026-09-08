@@ -299,6 +299,7 @@ udp://189.18.96.9:6969/announce
 udp://189.18.97.116:6969/announce
 udp://189.18.97.201:6969/announce
 udp://189.18.97.57:6969/announce
+udp://189.18.97.61:6969/announce
 udp://189.69.167.105:6969/announce
 udp://189.69.167.130:6969/announce
 udp://189.69.168.147:6969/announce
@@ -390,7 +391,6 @@ udp://201.13.49.202:6969/announce
 udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -900,7 +900,6 @@ udp://fleira.no:6969/announce
 udp://fosstorrents.com:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
-udp://globalwave.no-ip.org:6969/announce
 udp://glotorrents.pw:6969/announce
 udp://hificode.in:6969/announce
 udp://home.kray.pw:6969/announce
