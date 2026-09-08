@@ -847,7 +847,6 @@ udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
-udp://buddyfly.top:6969/announce
 udp://buny.uk:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://camera.lei001.com:6969/announce
@@ -941,7 +940,6 @@ udp://madiator.com:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.realliferpg.de:6969/announce
 udp://mail.segso.net:6969/announce
-udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://mgtracker.org:2710/announce
 udp://mirror.aptus.co.tz:6969/announce
@@ -1011,7 +1009,6 @@ udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
-udp://shahidrazi.online:1984/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smurfsoft.com:6969/announce

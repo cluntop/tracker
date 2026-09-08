@@ -10,7 +10,6 @@ http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
 http://52.70.94.249/announce
 http://93.88.129.16/announce
-http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -42,7 +41,6 @@ http://tracker.bittorrent.am/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
 http://tracker.dm258.cn:7070/announce
-http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
@@ -943,7 +941,6 @@ udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
-udp://buddyfly.top:6969/announce
 udp://buny.uk:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://camera.lei001.com:6969/announce
@@ -1037,7 +1034,6 @@ udp://madiator.com:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.realliferpg.de:6969/announce
 udp://mail.segso.net:6969/announce
-udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://mgtracker.org:2710/announce
 udp://mirror.aptus.co.tz:6969/announce
@@ -1107,7 +1103,6 @@ udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
-udp://shahidrazi.online:1984/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smurfsoft.com:6969/announce
@@ -1354,6 +1349,7 @@ udp://zer0day.to:1337/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
+wss://tracker.dnlab.net:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.ghostchu-services.top:443/announce
 wss://tracker.magnetoo.io/announce
