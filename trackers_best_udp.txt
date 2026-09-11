@@ -1111,6 +1111,7 @@ udp://tracker.frozen-layer.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.govt.hu:6969/announce
 udp://tracker.grepler.com:6969/announce
+udp://tracker.halfchub.club:6969/announce
 udp://tracker.hismz.cn:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.ilibr.org:6969/announce
@@ -1164,6 +1165,7 @@ udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.slowcheetah.org:14760/announce
+udp://tracker.startwork.cv:1337/announce
 udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.t-rb.org:6969/announce
