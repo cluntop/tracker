@@ -25,12 +25,10 @@ http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
-http://share.hkg-fansub.info/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://supertracker.cc.cd/announce
 http://t-backup.213891.xyz/announce
-http://t.nyaatracker.com/announce
 http://thetracker.org/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
