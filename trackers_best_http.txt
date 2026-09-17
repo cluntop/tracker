@@ -3,6 +3,7 @@ http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://152.53.194.103:2710/announce
+http://195.123.209.40/announce
 http://216.144.239.90:6969/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
@@ -42,6 +43,7 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
