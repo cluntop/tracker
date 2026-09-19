@@ -494,6 +494,7 @@ udp://222.216.139.72:6969/announce
 udp://222.84.22.60:6969/announce
 udp://222.84.22.86:6969/announce
 udp://222.84.23.141:6969/announce
+udp://223.165.69.105:3392/announce
 udp://23.134.124.81:8081/announce
 udp://23.134.88.11:6969/announce
 udp://23.134.88.9:1337/announce
