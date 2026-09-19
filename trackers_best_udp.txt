@@ -934,6 +934,7 @@ udp://jvavav.com:6969/announce
 udp://keke.re:6969/announce
 udp://kingof.torrentonline.cc:42069/announce
 udp://kokodayo.site:6969/announce
+udp://kolanopentracker.airdns.org:3392/announce
 udp://kristof.bartanet.cz:6969/announce
 udp://laze.cc:6969/announce
 udp://leet-tracker.moe:1337/announce
@@ -1075,6 +1076,7 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce

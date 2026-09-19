@@ -4,16 +4,13 @@ http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://152.53.194.103:2710/announce
 http://195.123.209.40/announce
-http://216.144.239.90:6969/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://93.88.129.16/announce
 http://bluebird-hd.org/announce
-http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
@@ -41,6 +38,7 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
@@ -58,7 +56,6 @@ http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
-http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
@@ -70,7 +67,6 @@ https://3.tracker.eu.org/announce
 https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
-https://bt.beatrice-raws.org/announce
 https://burmese.app/announce
 https://opentracker.co/announce
 https://retracker.gorcomnet.ru/announce
@@ -1037,6 +1033,7 @@ udp://jvavav.com:6969/announce
 udp://keke.re:6969/announce
 udp://kingof.torrentonline.cc:42069/announce
 udp://kokodayo.site:6969/announce
+udp://kolanopentracker.airdns.org:3392/announce
 udp://kristof.bartanet.cz:6969/announce
 udp://laze.cc:6969/announce
 udp://leet-tracker.moe:1337/announce
@@ -1178,6 +1175,7 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
