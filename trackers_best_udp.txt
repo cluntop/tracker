@@ -1089,7 +1089,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.btzero.net:8080/announce
 udp://tracker.btzoo.eu:80/announce
 udp://tracker.christianbro.pw:6969/announce
-udp://tracker.cloudbase.store:1333/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
@@ -1173,6 +1172,7 @@ udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pcfreetime.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.picotorrent.one:6969/announce
+udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.prq.to:80/announce
@@ -1220,6 +1220,7 @@ udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
+udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zhuqiy.com:443/announce
 udp://tracker.zhuqiy.top:443/announce
@@ -1278,3 +1279,4 @@ udp://yuptracker.gaijinent.com:27022/announce
 udp://z.crazyhd.com:2710/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
+udp://zer0day.to:1337/announce
