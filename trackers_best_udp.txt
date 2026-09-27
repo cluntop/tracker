@@ -129,6 +129,7 @@ udp://159.146.99.45:6969/announce
 udp://159.195.43.181:6969/announce
 udp://159.195.43.181:80/announce
 udp://160.251.231.187:6969/announce
+udp://160.30.240.158:1337/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
 udp://163.5.63.253:6990/announce
@@ -394,6 +395,7 @@ udp://201.13.49.202:6969/announce
 udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
