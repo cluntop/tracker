@@ -10,9 +10,6 @@ http://37.120.182.83:2710/announce
 http://93.88.129.16/announce
 http://bluebird-hd.org/announce
 http://bt.beatrice-raws.org/announce
-http://bt.nnm-club.info:2710/announce
-http://bt02.nnm-club.cc:2710/announce
-http://bt02.nnm-club.info:2710/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
@@ -22,6 +19,7 @@ http://open.demonii.si/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
+http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://supertracker.cc.cd/announce
@@ -31,7 +29,6 @@ http://torrent-team.net/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
