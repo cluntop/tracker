@@ -5,8 +5,6 @@ http://135.125.198.235:2710/announce
 http://172.245.168.134/announce
 http://195.123.209.40/announce
 http://216.144.239.90:6969/announce
-http://34.66.57.33:11450/announce
-http://34.66.57.33:1337/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://93.88.129.16/announce
@@ -15,10 +13,8 @@ http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://bt1.xxxxbt.cc:6969/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
-http://jvavav.com/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
@@ -26,7 +22,6 @@ http://open.demonii.si/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
-http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://supertracker.cc.cd/announce
@@ -41,17 +36,16 @@ http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
-http://tracker.bt-hash.com/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
-http://tracker.iro.moe/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.opentorrent.top:6969/announce
 http://tracker.openzim.org/announce
 http://tracker.privateseedbox.xyz:2710/announce
+http://tracker.publictorrent.net/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
@@ -67,4 +61,3 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
-http://tracker810.xyz:11450/announce
