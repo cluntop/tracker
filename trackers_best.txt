@@ -8,7 +8,6 @@ http://216.144.239.90:6969/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://93.88.129.16/announce
-http://bluebird-hd.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -40,6 +39,7 @@ http://tracker.bittorrent.am/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -185,6 +185,8 @@ udp://139.202.231.55:6969/announce
 udp://141.11.240.19:6969/announce
 udp://142.132.183.104:6969/announce
 udp://143.198.64.177:6969/announce
+udp://143.20.154.228:42069/announce
+udp://143.20.154.229:42069/announce
 udp://143.246.43.3:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
@@ -1198,7 +1200,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://tracker.cubonegro.org:80/announce
-udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cuntflaps.me:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cynma.tv:6969/announce
