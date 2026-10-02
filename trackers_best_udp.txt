@@ -111,6 +111,7 @@ udp://152.231.114.120:1337/announce
 udp://152.231.114.51:1337/announce
 udp://152.243.213.163:6969/announce
 udp://152.243.213.247:6969/announce
+udp://152.249.214.196:6969/announce
 udp://152.249.214.198:6969/announce
 udp://152.249.214.23:6969/announce
 udp://152.249.214.53:6969/announce
@@ -1098,6 +1099,7 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://tracker.cubonegro.org:80/announce
+udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cuntflaps.me:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cynma.tv:6969/announce
