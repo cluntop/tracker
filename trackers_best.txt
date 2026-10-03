@@ -7,6 +7,7 @@ http://195.123.209.40/announce
 http://216.144.239.90:6969/announce
 http://61.216.165.60/announce
 http://93.88.129.16/announce
+http://asiatorrent.giize.com:51413/announce
 http://bluebird-hd.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -33,9 +34,11 @@ http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
+http://tracker.bittorrent.am/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -67,7 +70,6 @@ https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
 https://burmese.app/announce
-https://colibri.parrot.run/announce
 https://opentracker.co/announce
 https://retracker.gorcomnet.ru/announce
 https://retracker.x2k.ru/announce
