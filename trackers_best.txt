@@ -88,7 +88,6 @@ https://tracker.adgk.net/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
-https://tracker.maya.no.eu.org/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.publictorrent.net/announce
 https://tracker.qingwa.pro/announce
@@ -1203,6 +1202,7 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://tracker.cubonegro.org:80/announce
+udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cuntflaps.me:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cynma.tv:6969/announce
@@ -1272,9 +1272,6 @@ udp://tracker.nyaa.uk:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
-udp://tracker.openbittorrent.com:1337/announce
-udp://tracker.openbittorrent.com:6969/announce
-udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -1371,7 +1368,6 @@ udp://whybother.torrentonline.cc:42069/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
-udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
