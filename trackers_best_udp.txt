@@ -976,7 +976,6 @@ udp://node01.trackerstatus.live:42069/announce
 udp://node02.torrentonline.cc:42069/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
-udp://ns3109441.mypdns.org:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://obey.torrentonline.cc:42069/announce
 udp://odd-hd.fr:6969/announce
