@@ -24,10 +24,10 @@ https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.adgk.net/announce
-https://tracker.cangku.moe/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.publictorrent.net/announce
