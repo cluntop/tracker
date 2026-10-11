@@ -36,7 +36,6 @@ http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
 http://tracker.dm258.cn:7070/announce
-http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -49,7 +48,6 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
@@ -498,7 +496,6 @@ udp://201.13.49.202:6969/announce
 udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -1017,6 +1014,7 @@ udp://files.samtechnic.ir:6969/announce
 udp://fleira.no:6969/announce
 udp://fosstorrents.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
+udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://glotorrents.pw:6969/announce
