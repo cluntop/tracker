@@ -918,7 +918,6 @@ udp://files.samtechnic.ir:6969/announce
 udp://fleira.no:6969/announce
 udp://fosstorrents.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://glotorrents.pw:6969/announce
