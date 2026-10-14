@@ -7,7 +7,6 @@ https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
 https://burmese.app/announce
-https://colibri.parrot.run/announce
 https://ht.therarbg.to/announce
 https://opentracker.co/announce
 https://retracker.gorcomnet.ru/announce
@@ -29,7 +28,6 @@ https://tracker.adgk.net/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
-https://tracker.moviesdb.top/announce
 https://tracker.publictorrent.net/announce
 https://tracker.qingwa.pro/announce
 https://tracker.qingwapt.org/announce

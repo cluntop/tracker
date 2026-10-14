@@ -35,7 +35,6 @@ http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
 http://tracker.dm258.cn:7070/announce
-http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -48,7 +47,6 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
@@ -66,7 +64,6 @@ https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
 https://burmese.app/announce
-https://colibri.parrot.run/announce
 https://ht.therarbg.to/announce
 https://opentracker.co/announce
 https://retracker.gorcomnet.ru/announce
@@ -88,7 +85,6 @@ https://tracker.adgk.net/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
-https://tracker.moviesdb.top/announce
 https://tracker.publictorrent.net/announce
 https://tracker.qingwa.pro/announce
 https://tracker.qingwapt.org/announce
@@ -940,7 +936,6 @@ udp://atrack.pow7.com:6969/announce
 udp://auratorrent.pl:8089/announce
 udp://axell24.ru:6969/announce
 udp://bananas.space:6969/announce
-udp://bandito.byterunner.io:6969/announce
 udp://banzaitracker.com:2710/announce
 udp://bclearning.top:6969/announce
 udp://bedro.cloud:6969/announce
@@ -961,7 +956,6 @@ udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
-udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buny.uk:6969/announce
@@ -1117,7 +1111,6 @@ udp://qg.lorzl.gq:2710/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
 udp://rekcart.duckdns.org:15480/announce
-udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.nts.su:2710/announce
@@ -1142,7 +1135,6 @@ udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smurfsoft.com:6969/announce
 udp://soundmovie.ru:6969/announce
 udp://srv5.digiboy.ir:6969/announce
-udp://ssb14.nohost.me:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://storage.groupees.com:6969/announce
